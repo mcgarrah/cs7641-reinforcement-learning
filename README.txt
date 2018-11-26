@@ -2,6 +2,8 @@ OMSCS: Machine Learning - Assignment 4
 
 The code in this project is remarkably unchanged from that which came from https://github.com/juanjose49/omscs-cs7641-machine-learning-assignment-4
 
+The code for this project is available at https://github.com/mcgarrah/cs7641-reinforcement-learning which includes this README file.
+
 The JetBrains IntelliJ IDE was used with a Java 1.8 JDK installed on Windows 7 Professional.
 Nothing in this code should require the IDE and could be executed from the Command Line.
 
